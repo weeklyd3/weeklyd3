@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 ### Well, what HAVE I done?
 * [Did I mess up Wikipedia? It's up to you to decide.](https://en.wikipedia.org/wiki/Special:contribs/weeklyd3)
+* [I did?](https://en.wikipedia.org/w/index.php?title=User_talk:weeklyd3&action=edit&section=new&preloadtitle=Trouted&preload=Template%3ATrout_me/preload)
 * [Malware I've contributed](https://stackoverflow.com/users/15578194/?tab=answers)
 
 ### Some things I noticed about this site:
