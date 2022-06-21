@@ -48,9 +48,12 @@ Here are some ideas to get you started:
 5. You probably clicked the link above.
 6. Do not read the next list entry
 7. Do not read the **previous** list entry because you read this one
-8. Do not scroll down either.
+8. Don't open the content below.
+<details>
+  <summary>Don't open this</summary>
+Fine. You win. But don't scroll down.
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 Just, don't.
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-# Seriously?
+# Seriously?</details>
